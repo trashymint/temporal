@@ -1,0 +1,50 @@
+{
+  "ciudad": {
+    "filas": ["A", "B", "C", "D"],
+    "columnas": [1, 2, 3, 4]
+  },
+  "ips": {
+    "PC1": "10.32.56.229",
+    "PC2": "10.32.56.76",
+    "PC3": "10.32.56.150"
+  },
+  "puertos": {
+    "sensores_broker":        5555,
+    "broker_analitica":       5556,
+    "analitica_db_principal": 5557,
+    "analitica_semaforos":    5558,
+    "db_principal_query":     5559,
+    "analitica_monitoreo":    5560,
+    "analitica_db_replica":   5561,
+    "db_replica_query":       5562
+  },
+  "mysql_pc2": {
+    "host":     "127.0.0.1",
+    "port":     3306,
+    "user":     "root",
+    "password": "root",
+    "database": "db_replica"
+  },
+  "mysql_pc3": {
+    "host":     "127.0.0.1",
+    "port":     3306,
+    "user":     "root",
+    "password": "root",
+    "database": "db_principal"
+  },
+  "sensores": {
+    "intervalo_camara":  10,
+    "intervalo_espira":  30,
+    "intervalo_gps":     15
+  },
+  "semaforos": {
+    "tiempo_verde_normal":     15,
+    "tiempo_verde_congestion": 30
+  },
+  "reglas": {
+    "max_cola_normal":        5,
+    "min_velocidad_normal":   35,
+    "max_densidad_normal":    20,
+    "max_velocidad_congestion": 25
+  }
+}

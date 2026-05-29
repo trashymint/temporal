@@ -1,0 +1,1706 @@
+[
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 54,
+    "volumen": 6,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756898.6245203
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 43,
+    "volumen": 8,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756901.5194907
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 58,
+    "volumen": 1,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756902.62958
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 43,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756904.6753871
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 22,
+    "volumen": 12,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756905.5242167
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 49,
+    "volumen": 7,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756906.63437
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 52,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756908.680438
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 33,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756909.5273979
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 48,
+    "volumen": 9,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756910.6358585
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 60,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756912.6851954
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 46,
+    "volumen": 13,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756913.5319822
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 57,
+    "volumen": 5,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756914.6406326
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 50,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756916.6899161
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 21,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756917.5366058
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 43,
+    "volumen": 15,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756918.6417196
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 50,
+    "volumen": 9,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756920.6947036
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 34,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756921.5379639
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 32,
+    "volumen": 14,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756922.6465373
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 41,
+    "volumen": 10,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756924.6993434
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 40,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756925.5400019
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 33,
+    "volumen": 1,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756926.6512647
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 63,
+    "volumen": 5,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756928.7027957
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 38,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756929.5447736
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 39,
+    "volumen": 3,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756930.6521811
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 40,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756932.7055662
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 29,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756933.5474553
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 37,
+    "volumen": 9,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756934.6568198
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 47,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756936.7103431
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 44,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756937.552299
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 41,
+    "volumen": 14,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756938.6615531
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 65,
+    "volumen": 2,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756940.7150972
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 20,
+    "volumen": 6,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756941.557309
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 48,
+    "volumen": 13,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756942.6644106
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 51,
+    "volumen": 2,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756944.7199438
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 40,
+    "volumen": 10,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756945.5620487
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 55,
+    "volumen": 11,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756946.6664722
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 55,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756948.7230535
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 29,
+    "volumen": 7,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756949.5670335
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 51,
+    "volumen": 10,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756950.6712155
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 60,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756952.7266517
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 25,
+    "volumen": 12,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756953.571521
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 34,
+    "volumen": 15,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756954.6759527
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 59,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756956.73136
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 38,
+    "volumen": 12,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756957.5745742
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 49,
+    "volumen": 6,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756958.6807504
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 66,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756960.7359555
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 46,
+    "volumen": 11,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756961.5767567
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 60,
+    "volumen": 5,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756962.6854668
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 54,
+    "volumen": 2,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756964.7371688
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 43,
+    "volumen": 13,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756965.5815823
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 45,
+    "volumen": 12,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756966.6902173
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 66,
+    "volumen": 4,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756968.741997
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 50,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756969.5864706
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 57,
+    "volumen": 6,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756970.6950426
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 68,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756972.7468452
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 39,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756973.5912893
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 54,
+    "volumen": 7,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756974.6966865
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 58,
+    "volumen": 2,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756976.7490652
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 28,
+    "volumen": 11,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756977.5960815
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 48,
+    "volumen": 12,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756978.7001817
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 70,
+    "volumen": 6,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756980.7537715
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 25,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756981.5981696
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 48,
+    "volumen": 7,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756982.7048993
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 64,
+    "volumen": 4,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756984.7585733
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 34,
+    "volumen": 11,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756985.6027179
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 52,
+    "volumen": 2,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756986.70964
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 45,
+    "volumen": 10,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756988.763471
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 30,
+    "volumen": 12,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756989.6075087
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 50,
+    "volumen": 10,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756990.7112741
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 50,
+    "volumen": 2,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756992.768244
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 29,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756993.6122885
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 42,
+    "volumen": 2,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756994.7159858
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 43,
+    "volumen": 4,
+    "interseccion": "INT_E5",
+    "timestamp": 1775756996.7729511
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 25,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775756997.6145766
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 38,
+    "volumen": 6,
+    "interseccion": "INT_C3",
+    "timestamp": 1775756998.7208009
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 64,
+    "volumen": 2,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757000.7768369
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 43,
+    "volumen": 12,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757001.6194012
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 49,
+    "volumen": 2,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757002.7255738
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 48,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757004.781535
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 36,
+    "volumen": 9,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757005.6242213
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 46,
+    "volumen": 5,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757006.7305038
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 43,
+    "volumen": 1,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757008.7834444
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 44,
+    "volumen": 9,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757009.6290703
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 59,
+    "volumen": 7,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757010.735494
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 67,
+    "volumen": 6,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757012.7845273
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 49,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757013.6337225
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 56,
+    "volumen": 12,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757014.7372842
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 46,
+    "volumen": 10,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757016.789349
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 38,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757017.6383495
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 59,
+    "volumen": 10,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757018.7419884
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 41,
+    "volumen": 10,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757020.794203
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 36,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757021.640223
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 33,
+    "volumen": 2,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757022.7442906
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 46,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757024.798808
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 20,
+    "volumen": 9,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757025.6450605
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 56,
+    "volumen": 10,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757026.7489717
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 44,
+    "volumen": 1,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757028.8035865
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 39,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757029.6499374
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 37,
+    "volumen": 1,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757030.7537167
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 70,
+    "volumen": 1,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757032.8083756
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 22,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757033.654707
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 54,
+    "volumen": 4,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757034.7584298
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 59,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757036.8130872
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 37,
+    "volumen": 7,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757037.6564338
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 42,
+    "volumen": 7,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757038.7631724
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 66,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757040.81797
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 37,
+    "volumen": 9,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757041.6611018
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 59,
+    "volumen": 3,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757042.7678602
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 56,
+    "volumen": 10,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757044.8226056
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 50,
+    "volumen": 10,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757045.6658852
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 30,
+    "volumen": 5,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757046.7725601
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 54,
+    "volumen": 6,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757048.8271923
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 36,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757049.6706936
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 57,
+    "volumen": 1,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757050.7746696
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 66,
+    "volumen": 6,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757052.8310633
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 43,
+    "volumen": 9,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757053.6754372
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 36,
+    "volumen": 12,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757054.7767391
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 47,
+    "volumen": 5,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757056.835864
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 43,
+    "volumen": 6,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757057.680206
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 54,
+    "volumen": 10,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757058.7815752
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 40,
+    "volumen": 2,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757060.839567
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 22,
+    "volumen": 11,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757061.684841
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 56,
+    "volumen": 10,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757062.7823496
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 53,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757064.8443124
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 39,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757065.6895316
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 57,
+    "volumen": 13,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757066.7869172
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 67,
+    "volumen": 4,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757068.8492079
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 35,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757069.6941001
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 60,
+    "volumen": 13,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757070.7884715
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 44,
+    "volumen": 4,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757072.8539453
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 29,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757073.6973844
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 51,
+    "volumen": 15,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757074.791476
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 43,
+    "volumen": 2,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757076.855841
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 49,
+    "volumen": 8,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757077.70239
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 49,
+    "volumen": 6,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757078.7956743
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 48,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757080.8585246
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 37,
+    "volumen": 8,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757081.7072837
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 58,
+    "volumen": 8,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757082.800341
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 46,
+    "volumen": 9,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757084.8632455
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 42,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757085.7090163
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 53,
+    "volumen": 3,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757086.8050027
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 65,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757088.867999
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 32,
+    "volumen": 9,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757089.7137907
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 41,
+    "volumen": 15,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757090.8097472
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 70,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757092.8727903
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 46,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757093.716587
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 54,
+    "volumen": 3,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757094.8125038
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 67,
+    "volumen": 5,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757096.8775713
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 20,
+    "volumen": 11,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757097.7193758
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 52,
+    "volumen": 7,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757098.8172905
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 52,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757100.882398
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 50,
+    "volumen": 15,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757101.720262
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 38,
+    "volumen": 12,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757102.8213181
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 47,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757104.8871608
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 37,
+    "volumen": 7,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757105.72496
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 40,
+    "volumen": 14,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757106.826078
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 49,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757108.8918636
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 22,
+    "volumen": 12,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757109.7297292
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 34,
+    "volumen": 14,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757110.830791
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 59,
+    "volumen": 10,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757112.8965607
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 48,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757113.7344933
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 45,
+    "volumen": 9,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757114.8355484
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 53,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757116.9013033
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 23,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757117.737464
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 34,
+    "volumen": 2,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757118.8406007
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 67,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757120.9046555
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 48,
+    "volumen": 8,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757121.7425458
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 52,
+    "volumen": 6,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757122.8454132
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 65,
+    "volumen": 10,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757124.909313
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 44,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757125.747212
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 46,
+    "volumen": 10,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757126.8502085
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 46,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757128.9139566
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 44,
+    "volumen": 11,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757129.7518485
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 32,
+    "volumen": 2,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757130.8549867
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 55,
+    "volumen": 1,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757132.918599
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 49,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757133.756557
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 53,
+    "volumen": 6,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757134.8570185
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 52,
+    "volumen": 6,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757136.9233327
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 45,
+    "volumen": 13,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757137.7612875
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 56,
+    "volumen": 9,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757138.8615408
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 66,
+    "volumen": 7,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757140.9280775
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 45,
+    "volumen": 7,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757141.7658882
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 40,
+    "volumen": 7,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757142.8663335
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 62,
+    "volumen": 8,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757144.9328663
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 39,
+    "volumen": 7,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757145.7704506
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 34,
+    "volumen": 8,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757146.871014
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 57,
+    "volumen": 5,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757148.937572
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 29,
+    "volumen": 13,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757149.7751944
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 41,
+    "volumen": 12,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757150.875845
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 54,
+    "volumen": 10,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757152.9424005
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 37,
+    "volumen": 6,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757153.779998
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 57,
+    "volumen": 2,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757154.880572
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 65,
+    "volumen": 4,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757156.947212
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 36,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757157.7826498
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 43,
+    "volumen": 1,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757158.8852797
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 53,
+    "volumen": 6,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757160.9520345
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 38,
+    "volumen": 13,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757161.7872753
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 58,
+    "volumen": 4,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757162.8886461
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 53,
+    "volumen": 9,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757164.953842
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 34,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757165.7918923
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 39,
+    "volumen": 15,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757166.8934414
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 44,
+    "volumen": 3,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757168.9584656
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 49,
+    "volumen": 10,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757169.79658
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 37,
+    "volumen": 13,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757170.8976624
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 54,
+    "volumen": 5,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757172.9631112
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 45,
+    "volumen": 14,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757173.8013158
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 40,
+    "volumen": 9,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757174.9024796
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 62,
+    "volumen": 1,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757176.9677536
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 38,
+    "volumen": 6,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757177.8060164
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 56,
+    "volumen": 13,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757178.9034898
+  },
+  {
+    "sensor_id": 3,
+    "tipo": "gps",
+    "velocidad": 49,
+    "volumen": 9,
+    "interseccion": "INT_E5",
+    "timestamp": 1775757180.9724188
+  },
+  {
+    "sensor_id": 2,
+    "tipo": "espiras_inductivas",
+    "velocidad": 38,
+    "volumen": 5,
+    "interseccion": "INT_B1",
+    "timestamp": 1775757181.8106847
+  },
+  {
+    "sensor_id": 1,
+    "tipo": "camara",
+    "velocidad": 51,
+    "volumen": 1,
+    "interseccion": "INT_C3",
+    "timestamp": 1775757182.9080276
+  }
+]
